@@ -1,0 +1,2 @@
+# docpractice
+Documentation creation practice

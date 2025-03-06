@@ -1,2 +1,2 @@
 # docpractice
-Documentation creation practice
+Hi there
